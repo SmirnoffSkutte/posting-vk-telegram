@@ -1,0 +1,11 @@
+{
+    "name": "indikator/news-plugin",
+    "type": "october-plugin",
+    "description": "Plugin can be used for publishing news simply on the website.",
+    "homepage": "https://octobercms.com/plugin/indikator-news",
+    "keywords": ["october", "octobercms", "news"],
+    "license": "MIT",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
