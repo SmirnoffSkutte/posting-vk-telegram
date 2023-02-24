@@ -144,11 +144,6 @@ fields:
         label: Настройки Telegram
         type: section
 
-    tg_channel_id:
-        label: Id канала
-        type: text
-        span: auto
-
     tg_bot_token:
         label: Токен бота администратора
         type: text
